@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrovLab11v2", "PetrovLab11v2\PetrovLab11v2.csproj", "{F360F8B3-C030-43BA-889D-3568A010419F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabStructura", "LabStructura\LabStructura.csproj", "{44C0427C-2729-4517-86D6-B69D2536EF65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F360F8B3-C030-43BA-889D-3568A010419F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F360F8B3-C030-43BA-889D-3568A010419F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F360F8B3-C030-43BA-889D-3568A010419F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F360F8B3-C030-43BA-889D-3568A010419F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C0427C-2729-4517-86D6-B69D2536EF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C0427C-2729-4517-86D6-B69D2536EF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C0427C-2729-4517-86D6-B69D2536EF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C0427C-2729-4517-86D6-B69D2536EF65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2C4246-C1A4-4D92-8903-6106B25D6ED1}
+	EndGlobalSection
+EndGlobal
